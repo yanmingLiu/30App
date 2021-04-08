@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:22-3DTouchQuickAction/22-3DTouchQuickAction.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:16-SlideMenu/16-SlideMenu.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:09-ImageScroller/09-ImageScroller.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:05-Carousel Effect/05-Carousel Effect.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:03-PlayLocalVideo/03-PlayLocalVideo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:02-CustomFont/02-CustomFont.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:01-SimpleStopWatch/01-SimpleStopWatch.xcodeproj">
+   </FileRef>
+</Workspace>
